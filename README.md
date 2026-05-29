@@ -44,9 +44,9 @@ Je krijgt:
 ### API-endpoints:
 1. Login : `POST /api/login`
     - Body: {
-  "username": "owner",
-  "password": "Password123!",
-  "deviceId": "device-123"
+  "username": "YOUR_NAME",
+  "password": "OWN_PASSWORD",
+  "deviceId": "device-123(MAG OOK EIGEN)"
 }
 
 2. MFA-verificatie: `POST /api/mfa/verify`
