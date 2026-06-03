@@ -26,7 +26,7 @@ npm install
 
 ### Applicatie starten
 ```bash 
-nmp start
+npm start
 ```
 
 #### De server draait op:
